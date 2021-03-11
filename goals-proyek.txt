@@ -1,0 +1,3 @@
+Goals Proyek e-SKCK
+- Desain Mockup untuk Mobile App & Web App
+- Desain Database
